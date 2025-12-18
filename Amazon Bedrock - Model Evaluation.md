@@ -23,3 +23,10 @@ Semantic similarity between generated text.
 how well the model predicts the next token.
 
 
+## Business Metrics to evaluate a model on
+1. User Satisfaction
+2. Average Revenue per User
+3. Cross Domain Performance
+4. Effiency
+
+
