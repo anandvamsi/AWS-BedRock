@@ -1,0 +1,25 @@
+# Amazon BedRock- RAG
+
+RAG = Retrival Augmented Generation
+Allows a foundation Model to reference a data source outside of training data
+
+Here are the RAG databases
+
+Amazon Opensearch Service :- Search and analytics database realtime similarity queries, store millions of vector embeddings
+Amazon Aurora PostgresSQL :- Relational database,Proprietary on AWS
+Amazon Neptune Analytics :- Graph database that enable high perforamance graph analytics
+Amazon S3 vectore :- cost effective and durable storage with sub secon query perforamnance.
+
+
+## Usecases
+### Customer Service chatbot
+Knowledge base:-products features
+  RAG application :- chatbot that can answer customer quries
+
+### Legal Research and Analysis
+  Knowledge Base - laws, regulations case precedent legal options and expert analysis
+  RAG - chatbot that can provide relevant information for specific legal quries 
+
+### Healthcase questions- Answering
+Knowledge Base
+RAG
