@@ -1,0 +1,7 @@
+ # Amazon BedRock - Guardrails
+
+- Control the  interaction between user and Foundational Model(FM)
+- Filter undesirable and harmful content
+- Remove Personally Identifial information(PII)
+- Enhanced Privacy
+- Reduced hallucinatuion 
